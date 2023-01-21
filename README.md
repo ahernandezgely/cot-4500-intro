@@ -1,4 +1,4 @@
-# ------ Intro to GitHub and Python Assignment ------
+# Intro to GitHub and Python Assignment
 
 1. The libraries needed to run this python script are included in a file called 'requirements.txt'
 
